@@ -54,7 +54,7 @@ grapevine-growth-ai/
 
 For a full overview of the hybrid modeling pipeline, architecture diagrams, and sample GAN outputs, see the PDF presentation:
 
-👉 [presentation.pdf](docs/presentation.pdf)
+[presentation.pdf](docs/presentation.pdf)
 ---
 
 ## Future Work
