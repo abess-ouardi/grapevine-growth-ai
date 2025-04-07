@@ -52,12 +52,9 @@ grapevine-growth-ai/
 
 ## Visuals
 
-<p align="center">
-  <img src="docs/presentation.png" alt="Framework Overview" width="600"/>
-</p>
+For a full overview of the hybrid modeling pipeline, architecture diagrams, and sample GAN outputs, see the PDF presentation:
 
-_(More visuals in `docs/presentation.pdf`)_
-
+👉 [presentation.pdf](docs/presentation.pdf)
 ---
 
 ## Future Work
