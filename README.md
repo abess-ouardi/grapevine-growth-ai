@@ -1,4 +1,8 @@
 # Grapevine Growth Prediction Using GAN + Process-Based Modeling
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 **Hybrid AI model combining Process-Based Crop Models (PBCMs) and Pix2Pix GANs**  
 Predicting structural grapevine development over time, as part of my Bachelor’s thesis in Automation Engineering – University of Bologna.
