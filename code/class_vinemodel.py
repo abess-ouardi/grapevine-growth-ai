@@ -690,5 +690,5 @@ for key, value in tracking_data.items():
     print(f"{key}: {value}")
 
 phenology_timeline, biomass_list, branch_biomass, leaf_biomass, fruit_biomass = obj.photosynthesis()
-print(f"{branch_biomass}", end="\n")
+
 '''
